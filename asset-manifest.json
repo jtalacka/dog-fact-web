@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dog-fact-web/static/css/main.82f3ac9f.chunk.css",
+    "main.js": "/dog-fact-web/static/js/main.0214bf22.chunk.js",
+    "main.js.map": "/dog-fact-web/static/js/main.0214bf22.chunk.js.map",
+    "runtime-main.js": "/dog-fact-web/static/js/runtime-main.892cb55a.js",
+    "runtime-main.js.map": "/dog-fact-web/static/js/runtime-main.892cb55a.js.map",
+    "static/js/2.09c66894.chunk.js": "/dog-fact-web/static/js/2.09c66894.chunk.js",
+    "static/js/2.09c66894.chunk.js.map": "/dog-fact-web/static/js/2.09c66894.chunk.js.map",
+    "index.html": "/dog-fact-web/index.html",
+    "precache-manifest.404f481a38f35ca8354f915e3d883c89.js": "/dog-fact-web/precache-manifest.404f481a38f35ca8354f915e3d883c89.js",
+    "service-worker.js": "/dog-fact-web/service-worker.js",
+    "static/css/main.82f3ac9f.chunk.css.map": "/dog-fact-web/static/css/main.82f3ac9f.chunk.css.map",
+    "static/js/2.09c66894.chunk.js.LICENSE.txt": "/dog-fact-web/static/js/2.09c66894.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/dog-fact-web/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.892cb55a.js",
+    "static/js/2.09c66894.chunk.js",
+    "static/css/main.82f3ac9f.chunk.css",
+    "static/js/main.0214bf22.chunk.js"
+  ]
+}
