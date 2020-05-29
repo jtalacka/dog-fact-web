@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2f537042066c450d4402eddedf1493c6",
+    "revision": "db55570c60c72f225b7035b4fc1e3eaf",
     "url": "/dog-fact-web/index.html"
   },
   {
-    "revision": "ef3afb5885d65fff3f43",
-    "url": "/dog-fact-web/static/css/main.ed845499.chunk.css"
+    "revision": "ccae69653ec5b429eeac",
+    "url": "/dog-fact-web/static/css/main.4d8a0fc4.chunk.css"
   },
   {
     "revision": "ea2ab4ea2c3288bfe9b8",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dog-fact-web/static/js/2.09c66894.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ef3afb5885d65fff3f43",
+    "revision": "ccae69653ec5b429eeac",
     "url": "/dog-fact-web/static/js/main.78371856.chunk.js"
   },
   {
