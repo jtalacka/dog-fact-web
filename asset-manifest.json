@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/dog-fact-web/static/css/main.4d8a0fc4.chunk.css",
-    "main.js": "/dog-fact-web/static/js/main.78371856.chunk.js",
-    "main.js.map": "/dog-fact-web/static/js/main.78371856.chunk.js.map",
+    "main.js": "/dog-fact-web/static/js/main.50a1cf06.chunk.js",
+    "main.js.map": "/dog-fact-web/static/js/main.50a1cf06.chunk.js.map",
     "runtime-main.js": "/dog-fact-web/static/js/runtime-main.892cb55a.js",
     "runtime-main.js.map": "/dog-fact-web/static/js/runtime-main.892cb55a.js.map",
     "static/js/2.09c66894.chunk.js": "/dog-fact-web/static/js/2.09c66894.chunk.js",
     "static/js/2.09c66894.chunk.js.map": "/dog-fact-web/static/js/2.09c66894.chunk.js.map",
     "index.html": "/dog-fact-web/index.html",
-    "precache-manifest.276211ce699d4c147d96595cbad09984.js": "/dog-fact-web/precache-manifest.276211ce699d4c147d96595cbad09984.js",
+    "precache-manifest.2cbe1a02fe64af505115f8a147dd9c45.js": "/dog-fact-web/precache-manifest.2cbe1a02fe64af505115f8a147dd9c45.js",
     "service-worker.js": "/dog-fact-web/service-worker.js",
     "static/css/main.4d8a0fc4.chunk.css.map": "/dog-fact-web/static/css/main.4d8a0fc4.chunk.css.map",
     "static/js/2.09c66894.chunk.js.LICENSE.txt": "/dog-fact-web/static/js/2.09c66894.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.892cb55a.js",
     "static/js/2.09c66894.chunk.js",
     "static/css/main.4d8a0fc4.chunk.css",
-    "static/js/main.78371856.chunk.js"
+    "static/js/main.50a1cf06.chunk.js"
   ]
 }
